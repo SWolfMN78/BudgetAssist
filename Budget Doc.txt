@@ -1,0 +1,66 @@
+Intent: Create a budgeting calculator that will accept information from the user and help track incoming/outgoing financial points.
+
+Target Points:
+	- Income
+		* Total Working Income
+		* Extra income points (Available dropdown that can be expanded with each entry)
+			- Side jobs (art commissions, special projects, etc...)
+			- Gifts
+			- Lottery
+			- Interest from accounts
+			- Property
+	- Expenses
+		* Mortgage or rental
+		* Bills
+			- Phone
+			- Electrical
+			- Water
+			- Food
+				-- Dining Out
+				-- Home cooking
+				-- Ordering delivery
+			- Health
+				-- Insurance
+				-- Gym membership(s)
+				-- Other active memberships (Freeform input field)
+				-- Health/Beauty/Hygiene
+					- Personal Care (shampoo, conditioner, deorderate, etc...)
+					- Haircuts
+					- Clothing & Accessories
+				-- Bike repair/upgrades
+			- 
+		* Home Care (general items)
+			- Repairs/Maintenance
+			- Cleaning
+			- Replacement of items
+			- Electronics
+				-- Video Games
+				-- PC upgrades/repairs
+				--
+			- Updates/Upgrades
+		* Savings
+			- Banking Accounts
+			- Home Saved Coins
+		* Vehicle
+			- Gas
+			- Insurance
+			- Repairs/Maintenance
+			- Upgrades/Modifacations 
+		* Travel
+			- Food
+			- Transportation
+				- Land
+				- Air
+			- Bed
+			- Gifts / Souvenirs
+			- Extras
+	- Taxes // separate catigory as this can be either income or expense depending on the year
+		* Annual Income
+		* Annual Expense
+		* Property Taxes
+	- Excess Funds
+		* Net Gain/Loses 
+	
+		
+		
+			
